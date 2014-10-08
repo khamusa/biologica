@@ -1,0 +1,2 @@
+<div id="admnmenu"><div id="content"><p style="margin-top: 40px;"><a href="<?=base_url();?>index.php/user/listuser">Lista de Usuários</a> | <a href="<?=base_url();?>index.php/user/adduser"> Adicionar Usuário</a></p></div>
+</div>

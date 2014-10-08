@@ -1,0 +1,136 @@
+@charset "utf-8";
+/* CSS Document */
+/* ADMIN */
+.admin_aba_on {
+	padding-top: 2px;
+	margin-top: 4px;
+	background-image:url(../images/admin/aba_on.jpg);
+	background-color:#38683D;
+	background-repeat:no-repeat;
+	color:#ffffff;
+	width:96px;
+	height:18px;
+	text-align:center;
+	font-size:75%;
+	float:left;
+}
+
+.admin_aba_off {
+	padding-top: 2px;
+	margin-top: 3px;
+	background-image:url(../images/admin/aba_off.jpg);
+	background-color:#38683D;
+	background-repeat:no-repeat;
+	color:#CCCCCC;
+	width:96px;
+	height:18px;
+	text-align:center;
+	font-size:75%;
+	float:left;
+}
+
+.admin_aba_config_off {
+	padding-top: 2px;
+	margin-top: 3px;
+	background-image:url(../images/admin/aba_config_off.jpg);
+	background-color:#38683D;
+	background-repeat:no-repeat;
+	color:#CCCCCC;
+	width:24px;
+	height:18px;
+	text-align:center;
+	font-size:75%;
+	float:left;
+}
+.admin_aba_config_on {
+	padding-top: 2px;
+	margin-top: 3px;
+	background-image:url(../images/admin/aba_config_on.jpg);
+	background-color:#38683D;
+	background-repeat:no-repeat;
+	color:#CCCCCC;
+	width:24px;
+	height:18px;
+	text-align:center;
+	font-size:75%;
+	float:left;
+}
+
+
+.admin_aba_on a {
+	text-decoration:none;
+	color:#fff;
+}
+.admin_aba_off a {
+	text-decoration:none;
+	color:#CCCCCC;
+}
+
+#loginform {
+	width:200px;
+	margin-top: 50px;
+	margin-left:80px;
+	text-align:right;
+}
+
+p {
+	margin-bottom: 8px;
+	margin-top: 0px;
+	padding:0px;
+}
+
+/* EVENTOS */
+.eventos_floatleft {
+	float:left;
+	vertical-align:bottom;
+	width:50%;
+	text-align:center;
+}
+
+
+.eventos_floatright {
+	float:right;
+	vertical-align:bottom;
+	width:50%;
+	text-align:center;
+}
+
+
+/* ACOMODAÇÕES */
+
+.acomodacoes_floatleft {
+	float:left;
+	vertical-align:bottom;
+	width:50%;
+	height: 180px;
+}
+
+.acomodacoes_floatright {
+	float:right;
+	vertical-align:bottom;
+	width:50%;
+	height: 180px;
+}
+
+
+/* LAZER */
+.lazer_floatleft {
+	float:left;
+	width: 130px;
+}
+
+.lazer_floatright {
+	width: 280px;
+	float:right;
+}
+
+.lazer_floatright_left {
+	width: 140px;
+	text-align:center;
+	float:left;
+}
+.lazer_floatright_right {
+	width: 140px;
+	float:right;
+	text-align:center;
+}

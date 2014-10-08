@@ -1,0 +1,1 @@
+<a href="javascript:void(0)" onClick="loadAdminPage('<?=base_url()?>/index.php/user')">Usuarios</a>
